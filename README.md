@@ -1,6 +1,6 @@
 # Address Book
 **for Epicodus**
-**By Peter Grimm and Taylor Phillips, 06.15.2020**
+**By Peter Grimm, Benjamin Russell, Allison Sadin, and Taylor Phillips, 06.16.2020**
 
 ## Description
 
@@ -21,5 +21,5 @@ jQuery
 
 ## Legal
 
-Copyright (c) 2020, **_Peter Grimm and Taylor Phillips_**  
+Copyright (c) 2020, **_Peter Grimm, Benjamin Russell, Allison Sadin, and Taylor Phillips_**  
 This software is licensed under the MIT license.
